@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "547588020209",
+    "project_id": "telegram-b5b92",
+    "storage_bucket": "telegram-b5b92.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547588020209:android:6c4c4f2efdb64ba6ae1650",
+        "android_client_info": {
+          "package_name": "com.ssl123.telegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547588020209-7agl9mo25q4r083ag3puvhf8vvld5oeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5z43jf7vpcz1_KehQBslHNsG0R6lynxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547588020209-7agl9mo25q4r083ag3puvhf8vvld5oeh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "547588020209-0v14dgamshfj7r5r58rusa8hj3gql0ta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ssl123.telegram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
